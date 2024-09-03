@@ -1,0 +1,1 @@
+This Class is used to send a chosen sms message to a list of numbers. I chose to create it because I was tasked with sending a good morning message to up to 20 numbers every morning as part of my pledge process joining a fraternity. 
